@@ -1,0 +1,9 @@
+# Old WordPress URLs -> sections of the new one-page site
+/za-nas    /#za-nas    301
+/za-nas/   /#za-nas    301
+/uslugi    /#uslugi    301
+/uslugi/   /#uslugi    301
+/galeria   /#galeria   301
+/galeria/  /#galeria   301
+/kontakti  /#kontakti  301
+/kontakti/ /#kontakti  301
